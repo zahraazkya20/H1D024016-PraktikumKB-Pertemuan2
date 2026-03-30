@@ -44,6 +44,5 @@ Secara total, terdapat **8 aturan fuzzy** yang menyesuaikan kecepatan kipas deng
 
 1. Pastikan Python sudah terinstal  
 2. Install library yang dibutuhkan:
-pip install scikit-fuzzy scipy numpy packaging networkx matplotlib
 ```bash
-pip install numpy scikit-fuzzy matplotlib
+pip install scikit-fuzzy scipy numpy packaging networkx matplotlib
