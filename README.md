@@ -50,7 +50,8 @@ pip install scikit-fuzzy scipy numpy packaging networkx matplotlib
 
 ---
 
-Nama : Zahratul Askia
-NIM : H1D024016
-Shift Awal : G
-Shift Akhir : F
+
+## Nama : Zahratul Askia
+## NIM : H1D024016
+## Shift Awal : G
+## Shift Akhir : F
