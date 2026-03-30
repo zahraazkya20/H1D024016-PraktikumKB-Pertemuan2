@@ -46,3 +46,11 @@ Secara total, terdapat **8 aturan fuzzy** yang menyesuaikan kecepatan kipas deng
 2. Install library yang dibutuhkan:
 ```bash
 pip install scikit-fuzzy scipy numpy packaging networkx matplotlib
+```
+
+---
+
+Nama : Zahratul Askia
+NIM : H1D024016
+Shift Awal : G
+Shift Akhir : F
